@@ -6,6 +6,8 @@
 
 Web canvas animation experiment done years ago, for a alert system producing client, done using Adobe Edge Animate. Back when Edge Animate was DA BOMB.
 
+> Demo: (https://musavvirahmed.github.io/Alert-System-Animation/)
+
 ## Who am I?
 * [Website](http://musavvir.info/)
 * [Dribbble](https://dribbble.com/musavvir)
